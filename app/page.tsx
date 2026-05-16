@@ -129,7 +129,7 @@ const experiences = [
     desc:   "Mendukung administrasi kampus, pengarsipan dokumen, serta operasional layanan akademik.",
     icon:   <GraduationCap size={18} />,
     type:   "experience",
-    images: ["/images/dies-1.jpeg", "/images/dies-2.jpg", "/images/dies-3.jpeg"],
+    images: ["/images/dies-1.jpeg", "/images/dies-2.jpeg", "/images/dies-3.jpeg"],
   },
   
 ];
