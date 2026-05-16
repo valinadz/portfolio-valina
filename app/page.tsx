@@ -39,7 +39,6 @@ const techStack = [
   { name: "MySQL",    icon: <Database    size={20} />, color: "#4479A1" },
   { name: "GitHub",   icon: <GitBranch   size={20} />, color: "#181717" },
   { name: "Figma",    icon: <Globe       size={20} />, color: "#F24E1E" },
-  { name: "Postman",  icon: <Globe       size={20} />, color: "#FF6C37" },
 ];
 
 const projects = [
